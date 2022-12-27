@@ -1,0 +1,50 @@
+﻿<Window x:Class="PresentationLayer.Views.MyPropertiesView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer.Views"
+        xmlns:vm="clr-namespace:PresentationLayer.ViewModels"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type=vm:MyPropertiesViewModel}"
+        Title="MyPropertiesView" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="1" FontSize="31" Text="My Properties"></TextBlock>
+
+        <ListView Name="PropertyGrid" Grid.Row="4" Grid.RowSpan="2" Grid.Column="1" Grid.ColumnSpan="6" Margin="0 30 0 20" ItemsSource="{Binding MyProperties}" SelectedItem="{Binding SelectedProperty, Mode=TwoWay}">
+            <ListView.View>
+                <GridView x:Name="propertyGrid">
+                    <GridViewColumn Header="City" Width="150" DisplayMemberBinding="{Binding City}"/>
+                    <GridViewColumn Header="Adress" Width="200" DisplayMemberBinding="{Binding Adress}"/>
+                    <GridViewColumn Header="Price Per Night" Width="100" DisplayMemberBinding="{Binding PricePerNight}"/>
+                    <GridViewColumn Header="Facilities" Width="100" DisplayMemberBinding="{Binding Facilities}"/>
+                    <GridViewColumn Header="Description" Width="200" DisplayMemberBinding="{Binding Description}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Grid.Row="1" Grid.Column="4" FontSize="18" MaxWidth="150" MinWidth="150" MaxHeight="31" Grid.ColumnSpan="2" Content="Add New Property" Margin="160 10 0 0" Command="{Binding OpenAddPropertyViewCommand}"/>
+        <Button Grid.Row="2" Grid.Column="5" FontSize="18" MaxWidth="150" MinWidth="150" MaxHeight="31" Content="Edit Property" Margin="0 10 0 0" Command="{Binding OpenEditPropertyViewCommand}"/>
+        <Button Grid.Row="3" Grid.Column="5" FontSize="18" MaxWidth="150" MinWidth="150" MaxHeight="31" Content="Delete Property" Margin="0 10 0 0" Command="{Binding RemovePropertyCommand}"/>
+        <Button Grid.Row="3" Grid.Column="4" FontSize="18" MaxWidth="150" MinWidth="150" MaxHeight="31" Content="Bookings" Margin="160 10 0 0" Command="{Binding OpenPropertyBookingsCommand}"/>
+        <Button Grid.Row="2" Grid.Column="4" FontSize="18" MaxWidth="150" MinWidth="150" MaxHeight="31" Content="View Reviews" Margin="160 10 0 0" Command="{Binding OpenReviewViewCommand}"/>
+    </Grid>
+</Window>

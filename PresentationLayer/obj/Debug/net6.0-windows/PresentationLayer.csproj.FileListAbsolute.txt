@@ -1,0 +1,404 @@
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.lref
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.g.resources
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll.config
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll.config
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.g.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.g.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.lref
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.baml
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.baml
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.g.resources
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.g.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.g.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.lref
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll.config
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.baml
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.baml
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.g.resources
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll.config
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.lref
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.g.resources
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.baml
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.g.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll.config
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\Model.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\ReviewView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer_MarkupCompile.lref
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddPropertyView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\EditPropertyView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\LoginView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertiesView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\ReviewView.baml
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.g.resources
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertyBookingsView.g.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertyBookingsView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertyBookingsView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\ReviewView.g.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddBookingView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\AddReviewView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyBookingsView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\MyPropertiesView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\PropertyBookingsView.baml
+C:\Users\sebsv\Documents\AirBnB_Labb2\PresentationLayer\obj\Debug\net6.0-windows\Views\ReviewView.baml

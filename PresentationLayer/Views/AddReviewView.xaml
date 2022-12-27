@@ -1,0 +1,35 @@
+﻿<Window x:Class="PresentationLayer.Views.AddReviewView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer.Views"
+        xmlns:vm="clr-namespace:PresentationLayer.ViewModels"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type=vm:AddReviewViewModel}"
+        Title="AddReviewView" Height="450" Width="950">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="2" Text="Review" FontSize="31"/>
+        <TextBlock Grid.Row="2" Grid.Column="2" Text="Rating:" FontSize="25" Margin="0 50 0 0"/>
+        <ComboBox Grid.Row="2" Grid.Column="2" x:Name="ComboBox" Margin="100 50 0 0" SelectedValue="{Binding Rating}"></ComboBox>
+        <TextBlock Grid.Row="3" Grid.Column="2" Text="Comment:" FontSize="25" Margin="0 20 0 0"/>
+        <TextBox Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" Margin="0 0 180 50" Text="{Binding Comment}"/>
+        <Button Grid.Row="5" Grid.Column="3" Content="Add Review" Width="200" Margin="300 0 0 0" Command="{Binding AddReviewCommand}"/>
+    </Grid>
+</Window>

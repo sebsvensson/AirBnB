@@ -1,0 +1,49 @@
+﻿<Window x:Class="PresentationLayer.Views.MyBookingsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationLayer.Views"
+        xmlns:vm="clr-namespace:PresentationLayer.ViewModels"
+        mc:Ignorable="d"
+        d:DataContext="{d:DesignInstance Type=vm:MyBookingsViewModel}"
+        Title="MyBookings" Height="450" Width="950">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="120"/>
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" FontSize="32" Margin="0 10 0 0" Text="My Bookings"></TextBlock>
+        <ListView Name="PropertyGrid" Grid.Row="2" Grid.RowSpan="2" Grid.Column="1" Grid.ColumnSpan="9" ItemsSource="{Binding MyBookings}" SelectedItem="{Binding Selectedbooking, Mode=TwoWay}">
+            <ListView.View>
+                <GridView x:Name="MyBookingsGrid">
+                    <GridViewColumn Header="ID" Width="30" DisplayMemberBinding="{Binding BookingId}"/>
+                    <GridViewColumn Header="City" Width="150" DisplayMemberBinding="{Binding Property.City}"/>
+                    <GridViewColumn Header="Adress" Width="150" DisplayMemberBinding="{Binding Property.Adress}"/>
+                     <GridViewColumn Header="Start Date" Width="100" DisplayMemberBinding="{Binding StartDate}"/>
+                    <GridViewColumn Header="End Date" Width="100" DisplayMemberBinding="{Binding EndDate}"/>
+                    <GridViewColumn Header="Total Price" Width="100" DisplayMemberBinding="{Binding Price}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Grid.Row="4" Grid.Column="2" FontSize="15" Content="Cancel Booking" Margin="0 10 0 0" Command="{Binding CancelBookingCommand}"/>
+        <Button Grid.Row="4" Grid.Column="3" FontSize="15" Content="Add Review" Margin="20 10 0 0" Command="{Binding OpenAddReviewCommand}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,71 @@
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Downloads\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (3)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\Downloads\AirBnB_Labb2 (6)\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\lime2\OneDrive\Skrivbord\AirBnB_Labb2-8-april\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
+C:\Users\sebsv\Documents\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.deps.json
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\bin\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\bin\Debug\net6.0\Model.pdb
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.AssemblyReference.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\ref\Model.dll
+C:\Users\sebsv\Documents\Labb 2\AirBnB_Labb2\Model\obj\Debug\net6.0\Model.pdb
